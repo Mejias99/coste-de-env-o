@@ -1,9 +1,3 @@
-envio_internacional = False
-
-envio_canarias = False
-
-envio_peninsula = False
-
 total = 0
 
 coste_envio = 0
